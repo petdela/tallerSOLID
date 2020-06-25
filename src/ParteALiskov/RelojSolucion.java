@@ -1,4 +1,8 @@
+package ParteALiskov;
 /*package tallerSOLID;
+
+//SOLUCION A LA SECCION A EJEMPLO LISKOV SUBSTITUTION
+
 
 public class RelojSolucion {
 

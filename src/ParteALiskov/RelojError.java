@@ -1,5 +1,5 @@
-package tallerSOLID;
-
+package ParteALiskov;
+/*
 public class RelojError {
 	public void ImprimirHora(Reloj reloj) {
 		reloj.mostrarHora();;
@@ -25,3 +25,4 @@ class RelojDigital implements Reloj{
 		//logica
 	}
 }
+*/
