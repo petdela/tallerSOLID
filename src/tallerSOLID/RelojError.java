@@ -1,6 +1,6 @@
 package tallerSOLID;
 
-public class Main {
+public class RelojError {
 	public void ImprimirHora(Reloj reloj) {
 		reloj.mostrarHora();;
 	}

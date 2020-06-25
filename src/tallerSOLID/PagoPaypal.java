@@ -5,7 +5,8 @@ package tallerSOLID;
 //pagoPaypal no se realizara a menos que este logeado, y no es lo
 //que se esta esperando que suceda al llamar al metodo lo cual puede
 //traer consecuencias pues el codigo no espera ese comportamiento.
-
+//Por lo cual al solucion es que si no esta logeado llamar
+//al metodo loggearse.
 
 public class PagoPaypal{
 	private boolean loggedIn;
